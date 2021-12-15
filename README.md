@@ -1,5 +1,5 @@
 > Discord developer
 > Discord bots
-> mihai ᴿᴳ#0001
+> mihai ᴷˣ#4328
 
 > [My discord server](https://discord.gg/KgdCrc9wSG)
