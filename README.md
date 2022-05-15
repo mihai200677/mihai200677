@@ -4,6 +4,6 @@ Discord JS Bot Developer. You can find one of my server in my library
 # Contact 
 Mail: mihai200677@gmail.com
 
-Discord: mihai ᴿᴳ#4328
+Discord: mihai ng#0001
 
-Instagram: @mihai200677
+Instagram: @iamnot_.mihai
