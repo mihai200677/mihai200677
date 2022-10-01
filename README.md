@@ -1,4 +1,4 @@
-# Abou me
+# About me
 Discord JS and HTML/CSS Developer.
 
 # Contact 
