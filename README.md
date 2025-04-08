@@ -1,5 +1,5 @@
 # About me
-Discord JS and HTML/CSS Developer.
+Web Dev
 
 # Contact 
 Mail: mihai200677@gmail.com
